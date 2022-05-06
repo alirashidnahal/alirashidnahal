@@ -7,9 +7,9 @@ Full Stack Web Developer
 I'm Not Selfish, But Specialist in design, development and optimization of web-based software (Back-End) | Mastering user interface design according to client's psychology (Front-End) | SEO Consultancy | Digital Marketing Consultancy | Network Security Consultancy & Set up Linux servers
 
 *   🌍  I'm based in Tehran, Iran.
-*   🖥️  See my portfolio at [alirashidnahal.com](http://alirashidnahal.com)
+*   🖥️  See my portfolio at [alirashidnahal.com](https://alirashidnahal.com)
 *   ✉️  You can contact me at [hi@alirashidnahal.com](mailto:hi@alirashidnahal.com)
-*   🚀  I'm currently working on [Donyaro.com](http://donyaro.com)
+*   🚀  I'm currently working on [Donyaro.com](https://donyaro.com)
 *   🧠  I'm learning Node.js
 
 ### Skills
@@ -45,9 +45,16 @@ I'm Not Selfish, But Specialist in design, development and optimization of web-b
                     </p>
                     
 
-                  ### Socials
-                  
-                  <p align="left"> <a href="https://www.behance.com/alirashidnahal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.dribbble.com/alirashidnahal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/alirashidnahal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/alirashidnahal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ali.rashidnahal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/alirashidnahal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/14626028/ali-rashidnahal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/alirashidnahal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+### Socials
+<p align="left">
+<a href="https://www.behance.com/alirashidnahal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a>
+<a href="https://www.dribbble.com/alirashidnahal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a>
+<a href="https://www.facebook.com/alirashidnahal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/alirashidnahal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="http://www.instagram.com/ali.rashidnahal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/alirashidnahal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.stackoverflow.com/users/14626028/ali-rashidnahal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
+<a href="https://www.twitter.com/alirashidnahal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
